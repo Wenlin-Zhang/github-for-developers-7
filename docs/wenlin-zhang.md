@@ -1,0 +1,5 @@
+- [ ] Wenlin-Zhang
+- [ ] China
+- [ ] Fired chicken
+- [ ] Swimming
+- [ ] Red is my favorite color
